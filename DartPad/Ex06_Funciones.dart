@@ -10,7 +10,7 @@ void main() {
   print("En 3 días estaremos a: ${(numeroDia + 3)}");
 
   //3. Llamado de una función con parámetros
-  print(greetSomeone("Marco A."));
+  print(greetSomeone("Zahid Ramirez"));
   //3.1 Y que pasa si intentamos?
   print(greetSomeone(45));
   print(greetSomeone(-15));
@@ -25,14 +25,14 @@ void main() {
 
   //4. Llamado de Funciones con varios parámetors posicionales.
   //Para este caso los parámetros deben ser enviado sen la posición exacta y según DART ambos por defecto son obligatorios
-  print(greetSomeoneHourOfDay("Marco A.", 21));
+  print(greetSomeoneHourOfDay("Zahid Ramirez", 21));
   // ¿Qué pasa si solo envío un solo parámetro?
   /*print(greetSomeoneHourOfDay(null, null));*/
   /*print(greetSomeoneHourOfDay("Marco"));*/
   /*print(greetSomeoneHourOfDay(10));*/
   /* Analizando la función determinamos que la hora del día puede ser nulo , y se puede definir con la hora actual del SO.*/
   print(greetSomeoneHourOfDay("Adalid.", null));
-  print(greetSomeoneHourOfDay("María."));
+  print(greetSomeoneHourOfDay("Ameli"));
 
   //5. FUNCIONES LAMBDA, ANONIMAS, ARROW FUNCTIONS, FUNCIONES FLECHA
   // Las funciones lambda, tambien conocidas cómo funciones anonimas o funciones flecha, se ejecutan de manera simple y no frecuente en laejecución de un programa o sistema, en DART estas funciones solo pueden tener una sola instrucción para usar el operador =>
