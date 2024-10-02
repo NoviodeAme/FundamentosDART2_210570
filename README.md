@@ -12,8 +12,9 @@ Proyecto de Clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |5|Tipos de Dato DInamico|5|✅Finalizada|
 |6|Mapas|6|✅Finalizada|
 |7|Listas, Iterables y Conjuntos de Datos|9|✅Finalizada|
-|8|Funciones y parametros|11|⭐Activa|
-|9|Funciones y parametros|9|⭐Activa|
+|8|Funciones y parametros|11|✅Finalizada|
+|9|Funciones y parametros|9|✅Finalizada|
+|10|Funciones y parametros|8|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
