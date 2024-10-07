@@ -14,8 +14,9 @@ Proyecto de Clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |7|Listas, Iterables y Conjuntos de Datos|9|✅Finalizada|
 |8|Funciones y parametros|11|✅Finalizada|
 |9|Funciones y parametros|9|✅Finalizada|
-|10|Funciones y parametros|8|⭐Activa|
-|11|Getters (Lectura Controlada) y Setters (Modificación Controlada)|9|⭐Activa|
+|10|Funciones y parametros|8|✅Finalizada|
+|11|Getters (Lectura Controlada) y Setters (Modificación Controlada)|9|✅Finalizada|
+|12|Aserciones|3|⭐Activa|
 
 
 ### LISTA DE HERRAMIENTAS
