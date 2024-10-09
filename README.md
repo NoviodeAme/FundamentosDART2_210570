@@ -19,6 +19,7 @@ Proyecto de Clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |12|Aserciones|3|⭐Activa|
 |13|Clases Abstractas|11|⭐Activa|
 |14|Mixins|11|⭐Activa|
+|15|Future|3|⭐Activa|
 
 
 
