@@ -16,10 +16,14 @@ Proyecto de Clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |9|Funciones y parametros|9|✅Finalizada|
 |10|Funciones y parametros|8|✅Finalizada|
 |11|Getters (Lectura Controlada) y Setters (Modificación Controlada)|9|✅Finalizada|
-|12|Aserciones|3|⭐Activa|
-|13|Clases Abstractas|11|⭐Activa|
-|14|Mixins|11|⭐Activa|
-|15|Future|3|⭐Activa|
+|12|Aserciones|3|✅Finalizada|
+|13|Clases Abstractas|11|✅Finalizada|
+|14|Mixins|11|✅Finalizada|
+|15|Future|11|⭐Activa|
+|16|Future async await|Pendiente|⭐Activa|
+|17|Future try catch and finally|Pendiente|⭐Activa|
+|18|Streams|Pendiente|⭐Activa|
+|19|Streams and await|Pendiente|⭐Activa|
 
 
 
